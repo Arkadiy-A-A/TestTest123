@@ -1,0 +1,7 @@
+# Ifnoring folder
+.idea
+
+
+# Ifnoring file
+*.iml
+*.class
